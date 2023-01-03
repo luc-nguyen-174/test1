@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Module 1/Case Study/CodeGym-CaseStudy/.idea/CodeGym-CaseStudy.iml" filepath="$PROJECT_DIR$/../../Module 1/Case Study/CodeGym-CaseStudy/.idea/CodeGym-CaseStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module 1.iml" filepath="$PROJECT_DIR$/.idea/Module 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Module 1/bai-16-oop/rectangle/.idea/rectangle.iml" filepath="$PROJECT_DIR$/../../Module 1/bai-16-oop/rectangle/.idea/rectangle.iml" />
+    </modules>
+  </component>
+</project>
